@@ -1,7 +1,6 @@
 ---
 title: "Setting Up Docker for MySQL and phpMyAdmin"
-summary : "This file provides instructions for setting up a local docker environment with MySQL and phpMyAdmin."
-isDraft: true
+summary: "This file provides instructions for setting up a local docker environment with MySQL and phpMyAdmin."
 date: "24/02/2023"
 ---
 
